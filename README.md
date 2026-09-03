@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ivy%20Akter%20Lota&fontSize=45&fontAlignY=35&desc=Aspiring%20Web%20Developer&descAlignY=58&descSize=20" width="100%" />
+  <img src="./banner.png" width="100%" alt="Ivy Akter Lota Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ivy Akter Lota</h1>
