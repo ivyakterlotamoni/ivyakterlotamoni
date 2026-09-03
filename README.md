@@ -77,10 +77,21 @@
 
 Here are some of the projects I'm working on and learning from:
 
-- 🌐 *Web Development Projects*
-- 🎨 *Responsive UI Projects*
-- ⚡ *JavaScript Practice Projects*
-- 💻 *Tailwind CSS Projects*
+## 🚀 Projects
+
+Here are some of my projects:
+
+### 🌐 Practise Projects
+A collection of web development practice projects created while learning and improving my frontend development skills.
+
+🔗 [GitHub Repository](https://github.com/ivyakterlotamoni/practis)
+
+### 💻 Assignment 3
+A JavaScript assignment project containing different problem-solving and programming practice tasks.
+
+🔗 [GitHub Repository](https://github.com/ivyakterlotamoni/Assighnment3)
+
+---
 
 More projects coming soon! 🚀
 
