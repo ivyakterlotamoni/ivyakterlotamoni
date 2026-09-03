@@ -1,6 +1,13 @@
-# Hi 👋, I'm Ivy Akter Lota
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ivy%20Akter%20Lota&fontSize=45&fontAlignY=35&desc=Aspiring%20Web%20Developer&descAlignY=58&descSize=20" width="100%" />
+</p>
 
-<h3 align="center">💻 Aspiring Web Developer | Frontend Development Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Ivy Akter Lota</h1>
+
+<h3 align="center">
+  💻 Aspiring Web Developer | Frontend Development Enthusiast
+</h3>
 
 <p align="center">
   Passionate about building clean, responsive and user-friendly web experiences.
@@ -11,30 +18,11 @@
 ## 👩‍💻 About Me
 
 - 🌱 I'm currently learning and improving my Web Development skills.
-- 💻 Interested in Frontend Development and modern web technologies.
+- 💻 I'm interested in Frontend Development and modern web technologies.
 - 🎨 I enjoy creating clean and responsive user interfaces.
 - 🚀 Currently practicing JavaScript and Tailwind CSS.
-- 📚 Always trying to learn something new and improve my coding skills.
+- 📚 Always trying to learn new technologies and improve my coding skills.
 - 🤝 Interested in collaboration, learning and building projects.
-
----
-
-## 🛠️ Skills & Technologies
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
 
 ---
 
@@ -43,57 +31,94 @@
 - 🌐 Practicing responsive web development
 - 🎨 Building modern UI with Tailwind CSS
 - ⚡ Improving my JavaScript skills
-- 🚀 Working on personal web development projects
+- 🚀 Building personal web development projects
 
 ---
 
-## 📌 What I'm Learning
+## 🌱 Currently Learning
 
-- HTML & CSS
 - JavaScript
 - Tailwind CSS
-- Git & GitHub
 - Responsive Web Design
-- Modern Web Development Practices
+- Git & GitHub
+- Modern Web Development
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivyakterlotamoni&show_icons=true&theme=tokyonight" alt="Ivy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ivyakterlotamoni&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivyakterlotamoni&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ivyakterlotamoni&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🚀 Projects
+
+Here are some of the projects I'm working on and learning from:
+
+- 🌐 *Web Development Projects*
+- 🎨 *Responsive UI Projects*
+- ⚡ *JavaScript Practice Projects*
+- 💻 *Tailwind CSS Projects*
+
+More projects coming soon! 🚀
 
 ---
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="mailto:ivylota218@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="left">
 
-  <a href="https://www.linkedin.com/in/ivy-akter-6027a0416/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="mailto:ivylota218@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <a href="https://github.com/ivyakterlotamoni">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/ivy-akter-6027a0416/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/ivyakterlotamoni">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
-## ✨ Goals
+## 🎯 My Goal
 
-> "Keep learning, keep building, and keep improving."
+My goal is to become a skilled Web Developer and build useful, beautiful and user-friendly web applications.
 
-🎯 My goal is to become a skilled Web Developer and build useful, beautiful and user-friendly web applications.
+> 💡 Keep learning, keep building, and keep improving.
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile! ⭐
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
