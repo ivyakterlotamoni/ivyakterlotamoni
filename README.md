@@ -90,7 +90,8 @@ Live link:https://precious-clafoutis-16ecdf.netlify.app/
 ### 💻 Assignment 3
 A JavaScript assignment project containing different problem-solving and programming practice tasks.
 
-🔗 [GitHub Repository](https://github.com/ivyakterlotamoni/Assighnment3)
+🔗 [GitHub Repository]-https://github.com/ivyakterlotamoni/Assighnment-6
+Live link: https://regal-gelato-791b31.netlify.app/
 
 ---
 
