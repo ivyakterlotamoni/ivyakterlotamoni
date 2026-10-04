@@ -84,7 +84,8 @@ Here are some of my projects:
 ### 🌐 Practise Projects
 A collection of web development practice projects created while learning and improving my frontend development skills.
 
-🔗 [GitHub Repository](https://github.com/ivyakterlotamoni/practis)
+🔗 [GitHub Repository]https://github.com/ivyakterlotamoni/dev-stack
+Live link:https://precious-clafoutis-16ecdf.netlify.app/
 
 ### 💻 Assignment 3
 A JavaScript assignment project containing different problem-solving and programming practice tasks.
