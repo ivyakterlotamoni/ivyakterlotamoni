@@ -77,10 +77,6 @@
 
 Here are some of the projects I'm working on and learning from:
 
-## 🚀 Projects
-
-Here are some of my projects:
-
 ### 🌐 Practise Projects
 A collection of web development practice projects created while learning and improving my frontend development skills.
 
