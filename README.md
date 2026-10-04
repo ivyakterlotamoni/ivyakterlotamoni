@@ -87,7 +87,7 @@ A collection of web development practice projects created while learning and imp
 🔗 [GitHub Repository]https://github.com/ivyakterlotamoni/dev-stack
 Live link:https://precious-clafoutis-16ecdf.netlify.app/
 
-### 💻 Assignment 3
+### 💻 Assignment 6
 A JavaScript assignment project containing different problem-solving and programming practice tasks.
 
 🔗 [GitHub Repository]-https://github.com/ivyakterlotamoni/Assighnment-6
